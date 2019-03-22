@@ -51,7 +51,7 @@ https://iextrading.com/developer/docs/#batch-requests
 
 ### ตัวอย่างหน้าจอที่รับข้อมูลจาก `Assignment`
 
-![1552555564455](C:\Users\warinl\AppData\Roaming\Typora\typora-user-images\1552555564455.png)
+![example-front-end](./image.png)
 
 
 
@@ -108,4 +108,4 @@ https://iextrading.com/developer/docs
 
 ### Example Screen which use `Assignment` as backend
 
-![1552555709587](C:\Users\warinl\AppData\Roaming\Typora\typora-user-images\1552555709587.png)
+![example-front-end](./image.png)
